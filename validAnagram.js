@@ -62,6 +62,6 @@ class Solution {
   }
 }
 
-const validAnagram = new Solution();
-console.log(validAnagram.isAnagramUsingMap("anagram", "nagaram"));
-console.log(validAnagram.isAnagramUsingArray("anagram", "nagaram"));
+const solution = new Solution();
+console.log(solution.isAnagramUsingMap("anagram", "nagaram"));
+console.log(solution.isAnagramUsingArray("anagram", "nagaram"));
